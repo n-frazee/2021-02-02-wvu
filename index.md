@@ -114,7 +114,10 @@ address.
   <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
 </p>
 {% endif %}
-
+<p id="where">
+  <strong>Where:</strong>
+  The workshop will hosted online with Zoom. Information for joinging will be sent to registrants.
+</p>
 {% comment %}
 DATE
 
